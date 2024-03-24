@@ -1,4 +1,4 @@
-# tax
+#
 # calculateNetSalary
 
 A simple JavaScript function to calculate the net salary based on the basic salary and benefits, considering tax rates and deductions.
@@ -9,7 +9,7 @@ To use this function, you can follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/calculateNetSalary.git
+   git clone https://github.com/GathogoG/tax/edit/main/README.md
  
 ## Instructions
 
