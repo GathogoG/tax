@@ -1,4 +1,4 @@
-#
+
 # calculateNetSalary
 
 A simple JavaScript function to calculate the net salary based on the basic salary and benefits, considering tax rates and deductions.
